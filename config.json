@@ -85,6 +85,14 @@
         ]
       },
       {
+        "slug": "clock",
+        "name": "Clock",
+        "uuid": "b1fdb0aa-9c65-4258-96e5-f9fd984dbba8",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "slug": "difference-of-squares",
         "name": "Difference of Squares",
         "uuid": "16d2cb93-b903-4c37-9cd0-40096f0fb51c",

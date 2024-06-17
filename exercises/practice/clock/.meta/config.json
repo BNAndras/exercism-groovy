@@ -1,0 +1,18 @@
+{
+  "authors": [
+    "BNAndras"
+  ],
+  "files": {
+    "solution": [
+      "src/main/groovy/Clock.groovy"
+    ],
+    "test": [
+      "src/test/groovy/ClockSpec.groovy"
+    ],
+    "example": [
+      ".meta/src/reference/groovy/Clock.groovy"
+    ]
+  },
+  "blurb": "Implement a clock that handles times without dates.",
+  "source": "Pairing session with Erin Drummond"
+}
